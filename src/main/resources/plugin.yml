@@ -1,0 +1,4 @@
+name: LoaditExample
+version: '${version}'
+main: it.scopped.loaditexample.LoaditExample
+api-version: '1.20'
